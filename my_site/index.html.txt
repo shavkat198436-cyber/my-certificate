@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sertifikat</title>
+    <style>
+        body, html { margin: 0; padding: 0; height: 100%; display: flex; justify-content: center; align-items: center; background: #fff; }
+        img { max-width: 100%; max-height: 100vh; object-fit: contain; }
+    </style>
+</head>
+<body>
+    <img src="certificate.png" alt="Sertifikat">
+</body>
+</html>
